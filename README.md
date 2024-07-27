@@ -1,6 +1,6 @@
 ![logo](https://github.com/dlmnawodani/dlmnawodani/blob/main/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Malsha Nawodani</h1>
-<h3 align="center">A passionate software engineering</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7ujpwgI4AxuAVluz8WA6cF7t7tkwcKA9PQ&s">
 
